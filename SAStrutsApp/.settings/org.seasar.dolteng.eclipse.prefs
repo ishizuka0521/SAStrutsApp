@@ -1,0 +1,8 @@
+DaoType=S2JDBC
+DefaultResourcePath=/SAStrutsApp/src/main/resources
+DefaultRootPackage=mySAStruts
+DefaultSrcPath=/SAStrutsApp/src/main/java
+ServletPath=/SAStrutsApp
+ViewType=SA-Struts
+WebContentsRoot=src/main/webapp/
+eclipse.preferences.version=1
